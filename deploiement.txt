@@ -1,0 +1,12 @@
+//installer Firebase    
+npm install -g firebase-tools
+firebase --version
+firebase login 
+
+//poussé le projet en ligne
+fireabse init  //reponse  dist/pokemon
+
+//final
+firebase deploy
+
+https://pokemon-5e815.web.app/
